@@ -29,7 +29,7 @@
 //        camo = #c;      \
 //    }; 
 //
-//#define PATTERN_TPW_BATLLE_BELT(name,  #) \
+//#define PATTERN_TPW_BATLLE_BELT(name,  c) \
 //    class name          \
 //    {                   \
 //        camo = #c;      \
@@ -4447,11 +4447,109 @@ class XtdGearInfo
 		PATTERN_UNIFORM(TPW_PCU_L9_FS_NG_UNIFORM_Z93,                 PCU,L9,FS,NG,UNIFORM,Z93)
 		PATTERN_UNIFORM(TPW_PCU_L9_FS_MX_UNIFORM_Z93,                 PCU,L9,FS,MX,UNIFORM,Z93)
 		
-
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////PATTERN_TPW_ACU 
+		PATTERN_TPW_ACU(TPW_acu_uniform_ADPM,                                         ACU,ADPM)
+		PATTERN_TPW_ACU(TPW_acu_uniform_AMCU,                                         ACU,AMCU)
+		PATTERN_TPW_ACU(TPW_acu_uniform_AMCUF,                                       ACU,AMCUF)
+		PATTERN_TPW_ACU(TPW_acu_uniform_AMP,                                           ACU,AMP)
+		PATTERN_TPW_ACU(TPW_acu_uniform_AOR1,                                         ACU,AOR1)
+		PATTERN_TPW_ACU(TPW_acu_uniform_AOR2,                                         ACU,AOR2)
+		PATTERN_TPW_ACU(TPW_acu_uniform_ARID,                                         ACU,ARID)
+		PATTERN_TPW_ACU(TPW_acu_uniform_ARMATA,                                     ACU,ARMATA)
+		PATTERN_TPW_ACU(TPW_acu_uniform_ATACS,                                       ACU,ATACS)
+		PATTERN_TPW_ACU(TPW_acu_uniform_BDC,                                           ACU,BDC)
+		PATTERN_TPW_ACU(TPW_acu_uniform_BLC,                                           ACU,BLC)
+		PATTERN_TPW_ACU(TPW_acu_uniform_BME,                                           ACU,BME)
+		PATTERN_TPW_ACU(TPW_acu_uniform_BROWN,                                       ACU,BROWN)
+		PATTERN_TPW_ACU(TPW_acu_uniform_CADPAT,                                     ACU,CADPAT)
+		PATTERN_TPW_ACU(TPW_acu_uniform_CCE,                                           ACU,CCE)
+		PATTERN_TPW_ACU(TPW_acu_uniform_CDW,                                           ACU,CDW)
+		PATTERN_TPW_ACU(TPW_acu_uniform_CHIP,                                         ACU,CHIP)
+		PATTERN_TPW_ACU(TPW_acu_uniform_CONCAMO,                                   ACU,CONCAMO)
+		PATTERN_TPW_ACU(TPW_acu_uniform_CROPAT,                                     ACU,CROPAT)
+		PATTERN_TPW_ACU(TPW_acu_uniform_DARK,                                         ACU,DARK)
 		
-
+		PATTERN_TPW_ACU(TPW_acu_uniform_DCCU,                                         ACU,DCCU)
+		PATTERN_TPW_ACU(TPW_acu_uniform_DPCU,                                         ACU,DPCU)
+		PATTERN_TPW_ACU(TPW_acu_uniform_DPDU,                                         ACU,DPDU)
+		PATTERN_TPW_ACU(TPW_acu_uniform_DPM,                                           ACU,DPM)
+		PATTERN_TPW_ACU(TPW_acu_uniform_EMR,                                           ACU,EMR)
+		PATTERN_TPW_ACU(TPW_acu_uniform_ESE,                                           ACU,ESE)
+		PATTERN_TPW_ACU(TPW_acu_uniform_FLECK,                                       ACU,FLECK)
+		PATTERN_TPW_ACU(TPW_acu_uniform_GLC,                                           ACU,GLC)
+		PATTERN_TPW_ACU(TPW_acu_uniform_GPU,                                           ACU,GPU)
+		PATTERN_TPW_ACU(TPW_acu_uniform_GRANITE,                                   ACU,GRANITE)
+		PATTERN_TPW_ACU(TPW_acu_uniform_GZONE,                                       ACU,GZONE)
+		PATTERN_TPW_ACU(TPW_acu_uniform_ICAM,                                         ACU,ICAM)
+		PATTERN_TPW_ACU(TPW_acu_uniform_IDPM,                                         ACU,IDPM)
+		PATTERN_TPW_ACU(TPW_acu_uniform_IDT,                                           ACU,IDT)
+		PATTERN_TPW_ACU(TPW_acu_uniform_ITMP,                                         ACU,ITMP)
 		
+		PATTERN_TPW_ACU(TPW_acu_uniform_JEITAI,                                     ACU,JEITAI)
+		PATTERN_TPW_ACU(TPW_acu_uniform_JIGSAW,                                     ACU,JIGSAW)
+		PATTERN_TPW_ACU(TPW_acu_uniform_KA2,                                           ACU,KA2)
+		PATTERN_TPW_ACU(TPW_acu_uniform_KDC,                                           ACU,KDC)
+		PATTERN_TPW_ACU(TPW_acu_uniform_KILO,                                         ACU,KILO)
+		PATTERN_TPW_ACU(TPW_acu_uniform_LDF,                                           ACU,LDF)
+		PATTERN_TPW_ACU(TPW_acu_uniform_M05,                                           ACU,M05)
+		PATTERN_TPW_ACU(TPW_acu_uniform_M09,                                           ACU,M09)
+		PATTERN_TPW_ACU(TPW_acu_uniform_M09D,                                         ACU,M09D)
+		PATTERN_TPW_ACU(TPW_acu_uniform_M14,                                           ACU,M14)
+		PATTERN_TPW_ACU(TPW_acu_uniform_M2011,                                       ACU,M2011)
+		PATTERN_TPW_ACU(TPW_acu_uniform_M2015,                                       ACU,M2015)
+		PATTERN_TPW_ACU(TPW_acu_uniform_M81,                                           ACU,M81)
+		PATTERN_TPW_ACU(TPW_acu_uniform_M90,                                           ACU,M90)
+		PATTERN_TPW_ACU(TPW_acu_uniform_M98,                                           ACU,M98)
 		
+		PATTERN_TPW_ACU(TPW_acu_uniform_MAD21,                                       ACU,MAD21)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MANDRAKE,                                 ACU,MANDRAKE)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MARPAT,                                     ACU,MARPAT)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MARPATD,                                   ACU,MARPATD)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MCAM,                                         ACU,MCAM)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MCAMA,                                       ACU,MCAMA)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MCAMD,                                       ACU,MCAMD)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MCAMF,                                       ACU,MCAMF)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MCAMT,                                       ACU,MCAMT)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MLAND,                                       ACU,MLAND)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MMPU,                                         ACU,MMPU)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MTARN,                                       ACU,MTARN)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MTP,                                           ACU,MTP)
+		PATTERN_TPW_ACU(TPW_acu_uniform_MWC,                                           ACU,MWC)
+		PATTERN_TPW_ACU(TPW_acu_uniform_NFP,                                           ACU,NFP)
+		
+		PATTERN_TPW_ACU(TPW_acu_uniform_NFPT,                                         ACU,NFPT)
+		PATTERN_TPW_ACU(TPW_acu_uniform_NZMCU,                                       ACU,NZMCU)
+		PATTERN_TPW_ACU(TPW_acu_uniform_NZMTP,                                       ACU,NZMTP)
+		PATTERN_TPW_ACU(TPW_acu_uniform_OBH,                                           ACU,OBH)
+		PATTERN_TPW_ACU(TPW_acu_uniform_OCP,                                           ACU,OCP)
+		PATTERN_TPW_ACU(TPW_acu_uniform_OCPF,                                         ACU,OCPF)
+		PATTERN_TPW_ACU(TPW_acu_uniform_OD,                                             ACU,OD)
+		PATTERN_TPW_ACU(TPW_acu_uniform_PAP,                                           ACU,PAP)
+		PATTERN_TPW_ACU(TPW_acu_uniform_PSDC,                                         ACU,PSDC)
+		PATTERN_TPW_ACU(TPW_acu_uniform_S2000,                                       ACU,S2000)
+		
+		PATTERN_TPW_ACU(TPW_acu_uniform_SASR,                                         ACU,SASR)
+		PATTERN_TPW_ACU(TPW_acu_uniform_SLOCAM,                                     ACU,SLOCAM)
+		PATTERN_TPW_ACU(TPW_acu_uniform_SURPAT,                                     ACU,SURPAT)
+		PATTERN_TPW_ACU(TPW_acu_uniform_T07D,                                         ACU,T07D)
+		PATTERN_TPW_ACU(TPW_acu_uniform_TAC,                                           ACU,TAC)
+		PATTERN_TPW_ACU(TPW_acu_uniform_TAN,                                           ACU,TAN)
+		PATTERN_TPW_ACU(TPW_acu_uniform_TAT,                                           ACU,TAT)
+		PATTERN_TPW_ACU(TPW_acu_uniform_TAZ90,                                       ACU,TAZ90)
+		PATTERN_TPW_ACU(TPW_acu_uniform_TE3,                                           ACU,TE3)
+		PATTERN_TPW_ACU(TPW_acu_uniform_TIGER,                                       ACU,TIGER)
+		
+		PATTERN_TPW_ACU(TPW_acu_uniform_TIGERAT,                                   ACU,TIGERAT)
+		PATTERN_TPW_ACU(TPW_acu_uniform_TUNPAT,                                     ACU,TUNPAT)
+		PATTERN_TPW_ACU(TPW_acu_uniform_UNIPAT,                                     ACU,UNIPAT)
+		PATTERN_TPW_ACU(TPW_acu_uniform_US4CES,                                     ACU,US4CES)
+		PATTERN_TPW_ACU(TPW_acu_uniform_VEG,                                           ACU,VEG)
+		PATTERN_TPW_ACU(TPW_acu_uniform_VSR,                                           ACU,VSR)
+		PATTERN_TPW_ACU(TPW_acu_uniform_VZ2007,                                     ACU,VZ2007)
+		PATTERN_TPW_ACU(TPW_acu_uniform_WLP,                                           ACU,WLP)
+		PATTERN_TPW_ACU(TPW_acu_uniform_XINGKONG,                                 ACU,XINGKONG)
+		PATTERN_TPW_ACU(TPW_acu_uniform_CCE,                                           ACU,Z93)
 		
 		
 //		PAT
