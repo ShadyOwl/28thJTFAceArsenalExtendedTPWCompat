@@ -1,3 +1,15 @@
+#define PATTERN_TPW_ICOMBATUNIFORM(name, s, c) \
+	class name          \
+	{                   \
+		sleeve = #s;     \
+		camo = #c;      \
+	}; 
+
+
+
+
+
+
 //////////////////////////////////////////////////////////////////////////////////////////TPW_ICOMBATUNIFORM
 ///Fullsleeve
 		PATTERN_TPW_ICOMBATUNIFORM(TPW_ICombatUniform_ADPM,                                         FULL,ADPM)
